@@ -1,0 +1,14 @@
+C:\Users\Jose\source\repos\Puerta\Puerta\bin\Debug\netcoreapp3.1\Puerta.exe
+C:\Users\Jose\source\repos\Puerta\Puerta\bin\Debug\netcoreapp3.1\Puerta.deps.json
+C:\Users\Jose\source\repos\Puerta\Puerta\bin\Debug\netcoreapp3.1\Puerta.runtimeconfig.json
+C:\Users\Jose\source\repos\Puerta\Puerta\bin\Debug\netcoreapp3.1\Puerta.runtimeconfig.dev.json
+C:\Users\Jose\source\repos\Puerta\Puerta\bin\Debug\netcoreapp3.1\Puerta.dll
+C:\Users\Jose\source\repos\Puerta\Puerta\bin\Debug\netcoreapp3.1\Puerta.pdb
+C:\Users\Jose\source\repos\Puerta\Puerta\obj\Debug\netcoreapp3.1\Puerta.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\Puerta\Puerta\obj\Debug\netcoreapp3.1\Puerta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\Puerta\Puerta\obj\Debug\netcoreapp3.1\Puerta.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\Puerta\Puerta\obj\Debug\netcoreapp3.1\Puerta.AssemblyInfo.cs
+C:\Users\Jose\source\repos\Puerta\Puerta\obj\Debug\netcoreapp3.1\Puerta.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Puerta\Puerta\obj\Debug\netcoreapp3.1\Puerta.dll
+C:\Users\Jose\source\repos\Puerta\Puerta\obj\Debug\netcoreapp3.1\Puerta.pdb
+C:\Users\Jose\source\repos\Puerta\Puerta\obj\Debug\netcoreapp3.1\Puerta.genruntimeconfig.cache
