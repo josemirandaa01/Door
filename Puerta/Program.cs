@@ -6,11 +6,12 @@ namespace Puerta
     {
         static void Main(string[] args)
         {
-            bool doorOpen = false;
-            bool doorLock = true;
+            bool doorOpen = true;
+            bool doorLock = false;
 
         OpenDoor(doorOpen);
-        //CloseDoor(doorOpen);
+        CloseDoor(doorOpen);
+         LockDoor(doorLock);
         }
 
         static bool OpenDoor(bool doorOpen)
@@ -40,6 +41,33 @@ namespace Puerta
                 
             }
 
+            return false;
+        }
+
+        static bool LockDoor(bool doorLock)
+        {
+            if (doorLock == true)
+            {
+                throw new ArgumentException("error", nameof(doorLock));
+            }
+            if (doorLock == false)
+            {
+                return true;
+            }
+
+            return false;
+        }
+
+        static bool unlockDoor(bool doorLock)
+        {
+            if (doorLock == true)
+            {
+                return false;
+            }
+            if (doorLock == false)
+            {
+                throw new ArgumentException("error", nameof(doorLock));
+            }
             return false;
         }
     }
